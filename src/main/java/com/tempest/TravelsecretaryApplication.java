@@ -1,4 +1,4 @@
-package com.tempest.travelsecretary;
+package com.tempest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
